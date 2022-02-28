@@ -39,3 +39,5 @@ def batch_transform(in_config=None, input_filter=None):
         input_filter=input_filter
     )
 
+if __name__ == "__main__":  
+    batch_transform()
